@@ -1,0 +1,9 @@
+Weather Report for New York:
+
+- Location: New York, NY
+- Date: Saturday 11:00 AM
+- Temperature: 59°F
+- Weather: Mostly sunny
+- Precipitation: 0%
+- Humidity: 44%
+- Wind: 7 mph
